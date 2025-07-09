@@ -1322,7 +1322,7 @@ cdef class Pari(Pari_auto):
         >>> L
         List([42])
         >>> L.listinsert(24, 1)
-        24
+        28
         >>> L
         List([24, 42])
         """
